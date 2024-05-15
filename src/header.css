@@ -1,0 +1,12 @@
+.navbar ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    gap: 20px;
+    background-color: green;
+    color: white;
+    padding: 23px;
+    cursor: pointer;
+    width: 100%;
+  
+  }
